@@ -27,5 +27,3 @@ Algorithm:
 - Add pages to new pdf until next page is found on big pdf with matching name
 - Write new pdf and attach to email
 - Recipients read from matching name in CSV
-
-see working kljc_pdf_split.py script
